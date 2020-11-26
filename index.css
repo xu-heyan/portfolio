@@ -177,12 +177,12 @@ article.about-me .top {
   padding-left: 33px;
   border-right: 1px solid #c3c3c3;
 }
-.about-me .bottom ul li:nth-child(2) {
+.about-me .bottom ul li:nth-child(3) {
   width: 287px;
   text-align: center;
   border-right: 1px solid #c3c3c3;
 }
-.about-me .bottom ul li:nth-child(3) {
+.about-me .bottom ul li:nth-child(2) {
   width: 228px;
   text-align: center;
   border-right: 1px solid #c3c3c3;
