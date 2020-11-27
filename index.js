@@ -137,7 +137,9 @@ class CardCarousel {
     }
     this.flex.innerHTML = `
         ${lastNext}
-        <img src="imgs/pg3/${this.projectIndex + 2}-${i + 1}.jpg" alt="">
+        <img src="imgs/pg3/${this.projectIndex + 2}-${i + 1}.jpg" alt="step ${
+      i + 1
+    } image">
         <p><span>${i + 1}. </span>${this.ps[i].innerText}</p>
     `;
     this.mask.style.display = "flex";
